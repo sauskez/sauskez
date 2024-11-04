@@ -13,5 +13,5 @@
 
 <p>https://www.linkedin.com/in/jeremy-sprouse-36a425289</p>
 
-- 🔭 I’m currently working on ...
+<b>🔭 I’m currently working on ...</b>
 - <p>Building my portfolio for CIS180!</p>
