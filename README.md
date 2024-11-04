@@ -1,4 +1,5 @@
 <h1>Hi, I'm Jeremy!</h1>
+Don't worry about the picture, I'm a professional.
 
 <h2>Portfolio project:</h2>
 
