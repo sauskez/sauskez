@@ -6,7 +6,7 @@ Don't worry about the picture, I'm a professional.
 - <b>School Projects</b>
   - [Educational Portfolio - Assignments and Projects](https://github.com/sauskez/schoolprojects) Updated 2025-03-11
 - <b>Professional Projects</b>
-  - [](https://github.com/sauskez/professional)
+  - Incoming... 
 - <b>Personal Projects</b>
   - [Making a Podcast - Valuable Life Lessons](https://github.com/sauskez/ufhpodcast)</i>
 
